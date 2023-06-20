@@ -1,0 +1,3 @@
+<template>
+    CmpOruga
+</template>
